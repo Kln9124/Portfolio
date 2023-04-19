@@ -1,0 +1,472 @@
+html{
+    background-color:  #1c2b4f;
+}
+
+nav  a{
+    float: right; 
+    text-decoration: none;
+    color: black;
+    background: white;
+    height: 36px;
+    line-height: 33px;
+    padding: 0 100px;
+    font-family: sans-serif; 
+    font-size: 12px; 
+    transition: .5s;
+    width: 70px;
+    }
+    nav  a:hover{
+    background: #1b69d0;
+    }
+
+
+
+    .container{
+        background-color: #1b69d0;
+        color: white;
+        text-align: right;
+        line-height: 33px
+
+    }
+
+    h1{
+        color: white;
+        font-family: sans-serif;
+        text-align: center;
+    }
+
+    h3{
+        color: white;
+        font-family: sans-serif;
+        text-align: center;
+    }
+
+    .text{
+        color: white;
+        font-family: sans-serif;
+        text-align: center;
+    }
+
+    .bouton1{
+        position: absolute;
+        left: 530px;
+        bottom: 30px;
+        height: 60px;
+        width: 200px;
+        font-family: sans-serif;
+        background-color: #1b69d0;
+        color: white;
+        border-radius: 10px;
+        border-color: white;
+    }
+
+    .bouton2{
+        position: absolute;
+        left: 830px;
+        bottom: 30px;
+        height: 60px;
+        width: 200px;
+        font-family: sans-serif;
+        background-color: black;
+        color: white;
+        border-radius: 10px;
+        border-color: white;
+
+
+    }
+
+    .bouton3{ position: absolute;
+        left:   230px;
+        bottom: 30px;
+        height: 60px;
+        width: 200px;
+        font-family: sans-serif;
+        background-color: black;
+        color: white;
+        border-radius: 10px;
+        border-color: white;
+
+    }
+
+    .logo{
+        position: absolute;
+        top: 65px;
+        height: 195px;
+    }
+
+    .container2{
+        position:absolute;
+        text-align: center;
+        color: #1c2b4f;
+        font-family: sans-serif;
+        background-color: white;
+        top: 600px;
+        border-radius: 50px;
+        height: 700px;
+        width: 100%;
+    }
+
+    strong{
+        color: blue;
+    }
+.un{
+    position: absolute;
+    font-size: 15px;
+    bottom: 350px;
+    left:30px
+}
+
+.unn{
+    position: absolute;
+    top:140px;
+    left:150px;
+}
+
+.deux{
+    position: absolute;
+    font-size: 15px;
+    bottom: 350px;
+    left:470px
+}
+
+.deuxx{
+    position: absolute;
+    font-size: 15px;
+    bottom: 475px;
+    left:575px
+}
+    
+
+.trois{
+    position: absolute;
+    font-size: 15px;
+    bottom: 350px;
+    left:880px
+}
+
+.troiss{
+    position: absolute;
+    font-size: 15px;
+    bottom: 480px;
+    left:1000px
+}
+
+.quatre{
+    position: absolute;
+    font-size: 15px;
+    bottom: 90px;
+    left:30px
+}
+
+.quatree{ 
+    position: absolute;
+    top:410px;
+    left:150px;
+}
+
+.cinq{
+    position: absolute;
+    font-size: 15px;
+    bottom: 90px;
+    left:470px
+}
+
+.cinqq{
+    position: absolute;
+    top:400px;
+    left:575px;
+}
+
+.six{
+    position: absolute;
+    font-size: 15px;
+    bottom: 90px;
+    left:880px
+}
+
+.sixx{
+    position: absolute;
+    top:420px;
+    left:1000px;
+}
+
+.container3{
+    background-color: white;
+    position: absolute;
+    height: 700px;
+    width: 100%;
+    top: 350px;
+    border-radius: 50px;  
+}
+    
+.D1{
+    position: absolute;
+    text-align: left;
+    background-color: white;
+    left: 200px;
+    font-family: sans-serif;
+
+
+}
+
+.D2{
+    position: absolute;
+    background-color: white;
+    left:800px;
+    font-family: sans-serif;
+   
+}
+
+.E1{
+    position: absolute;
+    text-align: center;
+    top: 1050px;
+    right: 430px
+}
+
+.container4{
+    background-color: white;
+    position: absolute;
+    height: 350px;
+    width: 100%;
+    top: 1150px;
+    border-radius: 50px;  
+}
+
+.D3{
+    position: absolute;
+    text-align: left;
+    background-color: white;
+    left: 200px;
+    font-family: sans-serif;
+}
+
+.D4{
+    position: absolute;
+    background-color: white;
+    left:800px; 
+    font-family: sans-serif;
+}
+
+.bouton11{
+    position: absolute;
+    left: 530px;
+    bottom: 0px;
+    height: 60px;
+    width: 200px;
+    font-family: sans-serif;
+    background-color: #1b69d0;
+    color: white;
+    border-radius: 10px;
+    border-color: white;
+}
+
+.bouton22{
+    position: absolute;
+    left: 830px;
+    bottom: 0px;
+    height: 60px;
+    width: 200px;
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border-color: white;
+
+
+}
+
+.bouton33{ 
+    position: absolute;
+    left:   230px;
+    bottom: 0px;
+    height: 60px;
+    width: 200px;
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border-color: white;
+
+}
+
+.sept{
+    position: absolute;
+    font-size: 15px;
+    bottom: 350px;
+    left:30px
+}
+
+.septt{
+    position: absolute;
+    top:140px;
+    left:150px;
+}
+.huit{
+    position: absolute;
+    font-size: 15px;
+    bottom: 350px;
+    left:470px
+}
+
+.huitt{
+    position: absolute;
+    font-size: 15px;
+    bottom: 475px;
+    left:575px
+}
+    
+
+.neuf{
+    position: absolute;
+    font-size: 15px;
+    bottom: 350px;
+    left:880px
+}
+
+.neuff{
+    position: absolute;
+    font-size: 15px;
+    bottom: 480px;
+    left:1000px
+}
+
+.dix{
+    position: absolute;
+    font-size: 15px;
+    bottom: 90px;
+    left:30px
+}
+
+.dixx{ 
+    position: absolute;
+    top:410px;
+    left:150px;
+}
+
+.onze{
+    position: absolute;
+    font-size: 15px;
+    bottom: 90px;
+    left:470px
+}
+
+.onzee{
+    position: absolute;
+    top:400px;
+    left:575px;
+}
+
+.douze{
+    position: absolute;
+    font-size: 15px;
+    bottom: 90px;
+    left:880px
+}
+
+.douzee{
+    position: absolute;
+    top:420px;
+    left:1000px;
+}
+
+.container5{
+    background-color: white;
+    position: absolute;
+    height: 280px;
+    width: 100%;
+    top: 280px;
+    border-radius: 50px;   
+    text-align: center;
+}
+
+.treize{
+    position: absolute;
+    font-size: 15px;
+    bottom: 50px;
+    left:150px
+}
+
+.treizee{
+    position: absolute;
+    bottom:120px;
+    left:220px;
+}
+.quinze{
+    position: absolute;
+    font-size: 15px;
+    bottom: 50px;
+    left:580px
+}
+
+.quinzee{
+    position: absolute;
+    font-size: 15px;
+    bottom: 135px;
+    left:620px
+}
+    
+
+.quatorze{
+    position: absolute;
+    font-size: 15px;
+    bottom: 50px;
+    left:1000px
+}
+
+.quatorzee{
+    position: absolute;
+    font-size: 15px;
+    bottom: 120px;
+    left:1000px
+}
+
+.map{
+    position: absolute;
+    top: 570px;
+}
+
+.map2{
+    position: absolute;
+    background-color: white;
+    top: 570px;
+    left: 620px;
+    width: 640px;
+    height: 300px;
+    text-align: center;
+
+}
+
+.bouton111{
+    position: absolute;
+    left: 100px;
+    bottom: 100px;
+    height: 60px;
+    width: 200px;
+    font-family: sans-serif;
+    background-color: #1b69d0;
+    color: white;
+    border-radius: 10px;
+    border-color: white;
+}
+
+.bouton222{
+    position: absolute;
+    left: 400px;
+    bottom: 100px;
+    height: 60px;
+    width: 200px;
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border-color: white;
+
+
+}
+
+.form{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
